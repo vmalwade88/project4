@@ -1,1 +1,1 @@
-Add some changes
+Now text is changed for stage tree
